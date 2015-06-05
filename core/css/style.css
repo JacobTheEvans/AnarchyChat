@@ -1,0 +1,215 @@
+h3 {
+	color: #33CCFF !important;
+}
+
+body {
+	font-family: 'Ubuntu';
+	text-align: center;
+	color: white !important;
+	background: white;
+}
+
+.items {
+	margin-top: 0px !important;
+}
+
+hr {
+	border: none;
+    height: 2px !important;
+    background-color: white; /* Modern Browsers */
+    margin-right: 37px;
+    margin-left: 15px;
+}
+
+
+
+.white{
+	color: white!important;
+}
+
+p {
+	font-family: 'Ubuntu';
+	font-size: 18px !important;
+}
+
+.blue{
+	color: #33CCFF !important;
+}
+
+h2 {
+	color: #33CCFF !important;
+	font-size: 45px !important;
+	font-family: 'Ubuntu';
+}
+
+.navbar {
+	background-color: #4E4E4E !important;
+	border-color: black !important;
+	border-width: 2px !important;
+}
+
+
+.icon-padding{
+	margin-left: 5px;
+	padding-top: 7px;
+}
+
+.icon {
+	height: 30px;
+}
+
+.bar-text {
+	font-size: 20px !important;
+	color: white;
+	text-decoration: none !important;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+
+ul{
+	text-align: left !important;
+	font-size: 20px !important;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.item {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    margin-left: 15px;
+    margin-bottom: -10px;
+    margin-top: -40px;
+}
+
+.todo{
+	background-color: #4E4E4E;
+	margin-top: 0px;
+	margin-bottom: 100px;
+	border: 2px solid black;
+    border-radius: 3px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.bor {
+	margin-top: 100px;
+}
+
+.add {
+	background-color: #4E4E4E;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	border: 2px solid black;
+    border-radius: 20px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.nospace {
+	margin-left: -4px !important;
+	margin-top:  0px !important;
+}
+
+.logo{
+	font-size: 0px;
+	margin-bottom: 0px;
+}
+
+.form-custom{
+	width: 95% !important;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.btn-white {
+	background-color: white !important;
+	color: black !important;
+}
+
+.check {
+	margin-bottom: -5px;
+	margin-left: -31px;
+	height: 32px;
+}
+
+.text-box {
+	border-radius: 5px;
+	text-align: left;
+	height: 500px;
+	width: 80%;
+	margin-right: 5%;
+	margin-left: auto;
+	background: white;
+	color: black;
+	margin-top: 3%;
+	overflow: scroll;
+}
+
+.btn-custom {
+	margin-bottom: 20px !important;
+	width: 95%;
+	background: white;
+	color: #33CCFF;
+	font-size: 18px !important;
+}
+
+.login-custom {
+	margin-bottom: 20px !important;
+	width: 35% !important;
+	background: white;
+	color: black;
+	font-size: 18px !important;
+	display: inline !important;
+}
+
+.btn-custom-login {
+	margin-bottom: 5px !important; 
+	background: white !important;
+	color: #33CCFF;
+	font-size: 14px !important;
+	display: inline !important;
+}
+
+.login-p {
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.margin-main {
+	margin-top: 100px;
+}
+
+.user-box {
+	padding-right: 90%;
+	margin-top: 10px;
+	height: 100%;
+	margin-bottom: -100px;
+	
+}
+
+.user-list {
+	overflow: hidden;
+	width: 160px;
+	margin-left: -20px;
+}
+
+.user-logo {
+	margin-left: 15px;
+}
+
+.time {
+	color: #33CCFF;
+	margin-right: 5px;
+}
+
+.sep {
+	margin-left: 5px;
+}
+
+.space-for-chat {
+	margin-top: 20px;
+}
